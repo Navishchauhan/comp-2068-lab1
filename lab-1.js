@@ -1,6 +1,6 @@
 /*
-  Full Name:
-  Student ID:
+  Full Name: Navish Chauhan 	
+  Student ID: 200395830
 
   Instructions:
     Follow the steps below. If you have any questions
@@ -22,6 +22,8 @@
       is adequate.)
 */
 
+console.clear();
+
 /*
   Step 1 (2.5 points):
     Create an array that contains 4 people objects.
@@ -38,6 +40,7 @@
     destructured.
 */
 
+ 
 
 /*
   Step 3 (3 points):
